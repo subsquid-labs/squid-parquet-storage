@@ -10,7 +10,7 @@
         "lint": "eslint . --ext .ts --ignore-path .gitignore --ignore-pattern src/abi/**/*  --fix"
     },
     "dependencies": {
-        "@subsquid/big-decimal": "^0.0.0",
+        "@subsquid/big-decimal": "^1.0.0",
         "@subsquid/evm-processor": "^0.4.0",
         "@subsquid/evm-typegen": "2.1.1",
         "@subsquid/file-store": "^0.3.0",
