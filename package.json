@@ -12,7 +12,7 @@
     "dependencies": {
         "@subsquid/big-decimal": "^1.0.0",
         "@subsquid/evm-processor": "^1.0.0",
-        "@subsquid/evm-typegen": "2.1.1",
+        "@subsquid/evm-typegen": "3.3.0",
         "@subsquid/file-store": "^0.3.0",
         "@subsquid/file-store-parquet": "^0.6.0",
         "@subsquid/file-store-s3": "^0.2.0",
